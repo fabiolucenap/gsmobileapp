@@ -1,0 +1,3 @@
+fastapi[all]
+oracledb
+python-dotenv
